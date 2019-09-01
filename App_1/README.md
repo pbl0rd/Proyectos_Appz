@@ -1,5 +1,5 @@
-# Proyectos_Appz
-Repositorio con los desarrollos de los proyectos actuales
+# App 1
+Repositorio con los desarrollos de la app 1
 
 Ejemplo 1
 ==========
